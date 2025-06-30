@@ -1,4 +1,3 @@
-# MiniOS-v1.5---Complete-Arduino-Real-Time-Operating-System
 # MiniOS v1.5 - Complete Arduino Real-Time Operating System
 
 ## 🎯 **Project Overview**
